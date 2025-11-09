@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+body {
+    margin: 0;
+    background: #fafafa;
+}
+
+main {
+    margin: auto;
+    padding: 20px;
+}
